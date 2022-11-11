@@ -1,4 +1,4 @@
-Contains all the activities developed by [me](https://www.linkedin.com/in/samuelbortnik/)__ during my trajectory at [Trybe](https://www.betrybe.com/) :rocket:
+Contains all the activities developed by [Samuel](https://www.linkedin.com/in/samuelbortnik/)__ during my trajectory at [Trybe](https://www.betrybe.com/) :rocket:
 
 >"The program has more than 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills."
 
