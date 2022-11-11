@@ -13,7 +13,7 @@ Contains all the activities developed by [Samuel Bortnik](https://www.linkedin.c
 
 ### Block 2: Git, GitHub and the Internet
 - [x] 2.1 - Git & GitHub - What is it and what is it for
-- [ ] 2.2 - Git & GitHub - Understanding commands
+- [x] 2.2 - Git & GitHub - Understanding commands
 - [ ] 2.3 - Internet - Understanding how it works
 
 ### Block 3: Introduction to HTML and CSS
