@@ -14,10 +14,10 @@ Contains all the activities developed by [Samuel Bortnik](https://www.linkedin.c
 ### Block 2: Git, GitHub and the Internet
 - [x] 2.1 - Git & GitHub - What is it and what is it for
 - [x] 2.2 - Git & GitHub - Understanding commands
-- [ ] 2.3 - Internet - Understanding how it works
+- [x] 2.3 - Internet - Understanding how it works
 
 ### Block 3: Introduction to HTML and CSS
-- [ ] 3.1 - HTML & CSS - Page Structures
+- [x] 3.1 - HTML & CSS - Page Structures
 - [ ] 3.2 - HTML & CSS - CSS Getting Started
 - [ ] 3.3 - HTML & CSS - Selectors and Positioning
 - [ ] 3.4 - Semantic HTML
