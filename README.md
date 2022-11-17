@@ -18,7 +18,7 @@ Contains all the activities developed by [Samuel Bortnik](https://www.linkedin.c
 
 ### Block 3: Introduction to HTML and CSS
 - [x] 3.1 - HTML & CSS - Page Structures
-- [ ] 3.2 - HTML & CSS - CSS Getting Started
+- [x] 3.2 - HTML & CSS - CSS Getting Started
 - [ ] 3.3 - HTML & CSS - Selectors and Positioning
 - [ ] 3.4 - Semantic HTML
 - [ ] 3.5 - Project - Lessons Learned
